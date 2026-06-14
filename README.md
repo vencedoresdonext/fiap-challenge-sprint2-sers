@@ -11,9 +11,9 @@
 
 ---
 
-## Prova de Conceito (PoC) — Sprint 2
+## Prova de Conceito (PoC)
 
-Para esta sprint, desenvolvemos uma **Simulação Computacional e Preditiva Baseada em Dados Reais** (usando Python), que demonstra o motor de tomada de decisão do ChargeGrid operando sob os princípios de eficiência energética e sustentabilidade.
+Para esta sprint, desenvolvemos uma **Simulação Computacional e Preditiva Baseada** (usando Python), que demonstra o motor de tomada de decisão do ChargeGrid operando sob os princípios de eficiência energética e sustentabilidade.
 
 ### Funcionalidade Operacional Demonstrada:
 * **Controle Dinâmico de Demanda:** O sistema monitora a carga do edifício em tempo real e, ao detectar a proximidade do horário de pico, reduz dinamicamente a potência injetada no carregador GoodWe GW7K-HCA-20 (de 7kW para 3.5kW), evitando multas contratuais e quedas de energia.
