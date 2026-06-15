@@ -33,6 +33,10 @@ Nossa solução aplica diretamente os conceitos de **Soluções Em Energias Reno
 1. **Gerenciamento do Lado da Demanda (DSM):** Evitamos o estresse da rede elétrica pública em horários de pico comercial, achatando a curva de consumo sem a necessidade de obras civis ou sobredimensionamento de cabos.
 2. **Sincronização Fotovoltaica:** O algoritmo prioriza o carregamento de alta potência nos momentos de pico de geração solar (calculados via irradiação local), garantindo que a matriz do abastecimento seja predominantemente limpa.
 3. **Eficiência Operacional:** A penalização por ociosidade de vaga aumenta a rotatividade do eletroposto, permitindo que mais veículos elétricos sejam carregados por dia no mesmo espaço urbano.
+---
+
+## Exemplo simples
+<img width="473" height="105" alt="image" src="https://github.com/user-attachments/assets/904ce298-39db-48f4-afae-212143bcf0f2" />
 
 ---
 
